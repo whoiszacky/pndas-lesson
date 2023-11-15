@@ -1,0 +1,12 @@
+Today`s Lesson and what i have learned,
+
+
+Firstly, I learned that pandas is an incredibly powerful library for data manipulation and analysis. It provides a simple and intuitive interface to work with structured data, making tasks like reading, writing, and transforming data a breeze. Using pandas, I was able to load the exercise information into a DataFrame effortlessly.
+
+In this task, I also learned about the different data types in pandas. The DataFrame allowed me to store various types of data, such as integers, floats, and strings, in a tabular format. However, I needed to convert the duration column to a string data type and append the unit "minutes" to each value. This was achieved by using the `astype` method, which allowed me to convert the duration column to a string type and then concatenate the "minutes" string to each value.
+
+Furthermore, pandas provided a convenient method `to_csv` to export the DataFrame to a CSV file. I used this method to save the exercise information as a CSV file for future reference.
+
+Overall, i learned alot .
+
+[Zakaria]
