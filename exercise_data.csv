@@ -1,0 +1,4 @@
+calories,duration,steps,heart_rate,distance,reps,sets,speed,weight,workout_type
+420,50,5000,80,3.5,15,3,10.2,150,running
+380,40,6000,85,4.2,12,3,9.8,160,cycling
+390,45,5500,78,3.9,10,4,10.5,140,swimming
